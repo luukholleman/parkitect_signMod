@@ -1,0 +1,100 @@
+﻿{
+    "Standing Banner": {
+		"model": "standingBanner",
+		"type": "deco",
+		"grid": true,
+		"price": 10.0,
+		"heightDelta": 1.0
+	},
+	"Hanging Banner": {
+		"model": "hangingBanner",
+		"type": "deco",
+		"grid": true,
+		"price": 10.0,
+		"heightDelta": 1.0
+	},
+	"Closed Sign": {
+		"model": "closedBoards",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 1.0
+	},
+	"Path Sign": {
+		"model": "straightSign",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Rounded Path Sign": {
+		"model": "signRounded",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Banner Sign": {
+		"model": "signBanner",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Generic Path Sign": {
+		"model": "genericPathSign",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 1.0
+	},
+	"Velvet Ropes": {
+		"model": "velvetRope",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 1.0
+	},
+	"Map": {
+		"model": "fantasyMap",
+		"type": "deco",
+		"price": 30.0,
+		"heightDelta": 1.0
+	},
+	"Waiting Times": {
+		"model": "waitingTimes",
+		"type": "deco",
+		"price": 60.0,
+		"heightDelta": 1.0
+	},
+	"Television": {
+		"model": "television",
+		"type": "deco",
+		"price": 50.0,
+		"heightDelta": 1.0
+	},
+	"Restaurant Sign": {
+		"model": "restaurantSign",
+		"type": "deco",
+		"price": 10.0,
+		"heightDelta": 1.0
+	},
+	"Fancy Sign": {
+		"model": "fantasySideSign",
+		"type": "deco",
+		"price": 50.0,
+		"heightDelta": 1.0
+	},
+	"Direction Signs": {
+		"model": "fantasyDirectionSigns",
+		"type": "deco",
+		"price": 20.0,
+		"heightDelta": 1.0
+	},
+	"Large Arrow": {
+		"model": "fantasyArrow",
+		"type": "deco",
+		"price": 20.0,
+		"heightDelta": 1.0
+	}
+}

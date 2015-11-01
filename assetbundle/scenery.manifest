@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3511674785
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a133d4e42d9fca337c8fa5504a34274c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e9458299030eefcc562450f92d52d33a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sign Mod/fantasyArrow.obj
+- Assets/Sign Mod/standingBanner.obj
+- Assets/Sign Mod/fantasyMap.obj
+- Assets/Sign Mod/signBanner.obj
+- Assets/Sign Mod/fantasyDirectionSigns.obj
+- Assets/Sign Mod/hangingBanner.obj
+- Assets/Sign Mod/restaurantSign.obj
+- Assets/Sign Mod/waitingTimes.obj
+- Assets/Sign Mod/signRounded.obj
+- Assets/Sign Mod/genericPathSign.obj
+- Assets/Sign Mod/straightSign.obj
+- Assets/Sign Mod/closedBoards.obj
+- Assets/Sign Mod/fantasySideSign.obj
+- Assets/Sign Mod/television.obj
+- Assets/Sign Mod/velvetRope.obj
+Dependencies: []
